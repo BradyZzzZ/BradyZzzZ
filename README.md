@@ -16,7 +16,7 @@
 
   <h4> - 🎓 &nbsp; Computer Science student at the University of Nottingham, Ningbo, China </h4>
   <h4> - 📖 &nbsp; Learning various aspects of computer related knowledge, especially AI and Fitech </h4>
-  <h4> - ✈️ &nbsp; Exchange student at the University of Glasgow in Year 3 </h4>
+  <h4> - 🛫 &nbsp; Exchange student at the University of Glasgow in Year 3 </h4>
   <h4> - 🌱 &nbsp; Enjoy deep thinking and meditation </h4>
   <h4> - 🤔 &nbsp; Actively innovate, and dare to challenge difficult problems </h4>
 
