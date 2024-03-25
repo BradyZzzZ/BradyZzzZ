@@ -30,7 +30,9 @@
   <h4> - 🌱 &nbsp; Enjoy deep thinking and meditation </h4>
   <h4> - 🤔 &nbsp; Actively innovate, and dare to challenge difficult problems </h4>
 
-<p> &nbsp;</p>
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+
 <div align="center">
 <table>
   <tr>
