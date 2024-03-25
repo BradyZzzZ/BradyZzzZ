@@ -6,7 +6,8 @@
     <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" style="display: inline-block;" /> 
     <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" style="display: inline-block;" />
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="display: inline-block;" /> 
+    <img src="https://img.shields.io/badge/HTML-CSS-green?style=flat-square&logo=html&logoColor=white" style="display: inline-block;" /> 
+    <img src="https://img.shields.io/badge/SQLite-orange?style=flat-square&logo=sqlite&logoColor=white" style="display: inline-block;" /> 
     <img src="https://komarev.com/ghpvc/?username=BradyZzzZ" alt="1879" style="display: inline-block;">
   </div>
 </h1>
