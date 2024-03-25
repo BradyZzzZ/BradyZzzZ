@@ -26,8 +26,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BradyZzzZ">
 
 
-<!-- <p> &nbsp;</p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BradyZzzZ&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy"> -->
+<p> &nbsp;</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BradyZzzZ&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
 
 <!--
