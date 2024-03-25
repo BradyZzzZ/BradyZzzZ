@@ -30,6 +30,20 @@
   <h4> - 🌱 &nbsp; Enjoy deep thinking and meditation </h4>
   <h4> - 🤔 &nbsp; Actively innovate, and dare to challenge difficult problems </h4>
 
+<p> &nbsp;</p>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BradyZzzZ&theme=xcode&bg_color=FF000000&hide_border=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=BradyZzzZ&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=BradyZzzZ&theme=xcode&bg_color=FF000000&hide_border=true" />
+      </picture>
+  </tr>
+</table>
+</div>
+
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" />
 </div>
