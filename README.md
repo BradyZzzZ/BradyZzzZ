@@ -21,7 +21,7 @@
 <p align="left"><img src="https://img.shields.io/badge/🔍_ABOUT_ME_🔎-995bfb" height="30em" style="border-radius:6px" /></p>
 
   <h4> - 🎓 &nbsp; Master of Information Studies student at the McGill University </h4>
-  <h4> - 📖 &nbsp; Learning various aspects of computer related knowledge, especially Data Science, Information Management, and Fitech </h4>
+  <h4> - 📖 &nbsp; Learning various aspects of computer related knowledge, especially Data Science and Business Analysis </h4>
   <h4> - 🛫 &nbsp; Exchange student at the University of Glasgow in 2023-2024 </h4>
   <h4> - 🌱 &nbsp; Enjoy deep thinking and meditation </h4>
   <h4> - 🤔 &nbsp; Actively innovate, and dare to challenge difficult problems </h4>
